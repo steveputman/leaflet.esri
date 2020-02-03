@@ -138,7 +138,7 @@ const config = [
 
   // "esri-leaflet-renderers": "2.0.6",
   library_prod("esri-leaflet-renderers", "esri-leaflet-renderers"),
-
+  library_binding("esri-leaflet-renderers",
 ];
 
 module.exports = config;
